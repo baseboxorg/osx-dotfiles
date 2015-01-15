@@ -1,7 +1,7 @@
 ---
 language: ruby
 rvm:
-  - 2.1.1
+  - 2.2.0
 install:
   - echo "Install"
 before_script:
