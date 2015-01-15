@@ -1,7 +1,9 @@
 # Environment variables {{{
+export WS=$HOME/Workspace
+export PROJ=$WS/Projects
 export ZSH_HOME=$HOME/.zsh.d
 export EDITOR=vim
-export GOPATH=$HOME/.go
+export GOPATH=$PROJ/go
 # }}}
 
 typeset -A some_envs
