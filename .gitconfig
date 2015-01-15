@@ -1,12 +1,12 @@
 [user]
-	email = aereal@aereal.org
-	name = aereal
+	email = open@basebox.org
+	name = baseboxorg
 
 [gui]
 	encoding = utf-8
 
 [github]
-	user = aereal
+	user = baseboxorg
 
 [alias]
 	abort-rebase       = rebase --abort
